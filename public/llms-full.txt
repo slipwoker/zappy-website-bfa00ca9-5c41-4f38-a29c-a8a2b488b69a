@@ -2,13 +2,13 @@
 
 Insta Block is a unique event photography and instant print service that specializes in printing photos on wooden blocks and creating custom magnets at events. The brand combines a rustic, tactile aesthetic with modern instant-print technology, offering guests a memorable and tangible keepsake. The service is designed for events and celebrations, bringing a creative and premium touch to event photography with a natural, wooden-themed product identity.
 
-Source: https://-bfa00ca9.zappy5.app
+Source: https://example.com
 
 ---
 
 ## הדפסת תמונות על בלוק עץ לאירוע שלכם — ליאור לב - הפקת אירועים
 
-URL: https://-bfa00ca9.zappy5.app
+URL: https://example.com
 Description: שירות צילום והדפסה מיידי על קוביות עץ ומגנטים מעוצבים לאירועים. הפכו כל רגע למזכרת מוחשית עם נגיעה כפרית ויוקרתית שתשאיר רושם בלתי נשכח אצל האורחים. הזמינו עכשיו חוויה שונה!
 
 הדפסת תמונות על בלוק עץ לאירוע שלכם — ליאור לב - הפקת אירועים
@@ -493,7 +493,7 @@ Description: שירות צילום והדפסה מיידי על קוביות ע�
 
 ## מארזי מגנטים לאירועים וצילום סטילס — ליאור לב - הפקת אירועים
 
-URL: https://-bfa00ca9.zappy5.app/services
+URL: https://example.com/services
 Description: גלו את חבילות הצילום וההדפסה שלנו: תאי צילום איכותיים, הדפסה על בלוקים מעץ טבעי ומגנטים אישיים לאירועים בישראל. שירות פרימיום שהופך כל אירוע לחוויה יצירתית ובלתי שגרתית. צפו באפשרויות!
 
 מארזי מגנטים לאירועים וצילום סטילס — ליאור לב - הפקת אירועים
@@ -1021,7 +1021,7 @@ Description: גלו את חבילות הצילום וההדפסה שלנו: תא
 
 ## מתנה שווה ליום הולדת: צילום על עץ — ליאור לב - הפקת אירועים
 
-URL: https://-bfa00ca9.zappy5.app/gallery
+URL: https://example.com/gallery
 Description: הציצו בגלריית אירועים אמיתיים: בלוקים מודפסים, מגנטים מרהיבים ורגעים שנתפסו בעדשה. השראה ויזואלית שמוכיחה איך מזכרת טבעית משדרגת כל חגיגה. בואו לראות את הקסם בפעולה ולקבל רעיונות לאירוע שלכם!
 
 מתנה שווה ליום הולדת: צילום על עץ — ליאור לב - הפקת אירועים
@@ -1447,7 +1447,7 @@ Description: הציצו בגלריית אירועים אמיתיים: בלוקי
 
 ## תא צילום איכותי לאירוע שלכם מחכה — ליאור לב - הפקת אירועים
 
-URL: https://-bfa00ca9.zappy5.app/contact
+URL: https://example.com/contact
 Description: מוכנים להפוך את האירוע שלכם לבלתי נשכח? צרו קשר עוד היום להזמנת שירות הדפסה על עץ ומגנטים מותאמים אישית. הצוות שלנו יחזור אליכם עם הצעה מנצחת שתגנוב את ההצגה. דברו איתנו ונתחיל לתכנן!
 
 תא צילום איכותי לאירוע שלכם מחכה — ליאור לב - הפקת אירועים
@@ -1855,7 +1855,7 @@ Description: מוכנים להפוך את האירוע שלכם לבלתי נש�
 
 ## מוצרים
 
-URL: https://-bfa00ca9.zappy5.app/products
+URL: https://example.com/products
 Description: המוצרים שלנו - ליאור לב - הפקת אירועים
 
 מוצרים - ליאור לב - הפקת אירועים
@@ -2111,7 +2111,7 @@ Description: המוצרים שלנו - ליאור לב - הפקת אירועים
 
 ## עגלת קניות
 
-URL: https://-bfa00ca9.zappy5.app/cart
+URL: https://example.com/cart
 Description: עגלת הקניות שלך
 
 עגלת קניות - ליאור לב - הפקת אירועים
@@ -2343,7 +2343,7 @@ Description: עגלת הקניות שלך
 
 ## תשלום
 
-URL: https://-bfa00ca9.zappy5.app/checkout
+URL: https://example.com/checkout
 Description: תשלום
 
 תשלום - ליאור לב - הפקת אירועים
@@ -2761,7 +2761,7 @@ Description: תשלום
 
 ## התחברות
 
-URL: https://-bfa00ca9.zappy5.app/login
+URL: https://example.com/login
 Description: התחברות לקוחות
 
 התחברות - ליאור לב - הפקת אירועים
@@ -3000,7 +3000,7 @@ Description: התחברות לקוחות
 
 ## החשבון שלי
 
-URL: https://-bfa00ca9.zappy5.app/account
+URL: https://example.com/account
 Description: החשבון שלי
 
 החשבון שלי - ליאור לב - הפקת אירועים
@@ -3394,7 +3394,7 @@ Description: החשבון שלי
 
 ## ההזמנה התקבלה!
 
-URL: https://-bfa00ca9.zappy5.app/order-success
+URL: https://example.com/order-success
 Description: תודה על ההזמנה
 
 ההזמנה התקבלה! - ליאור לב - הפקת אירועים
@@ -3650,7 +3650,7 @@ Description: תודה על ההזמנה
 
 ## מדיניות החזרות
 
-URL: https://-bfa00ca9.zappy5.app/return-policy
+URL: https://example.com/return-policy
 Description: מדיניות החזרת מוצרים - זכויותיכם להחזרה והחלפה בהתאם לחוק
 
 מדיניות החזרות - ליאור לב - הפקת אירועים
@@ -3935,7 +3935,7 @@ Description: מדיניות החזרת מוצרים - זכויותיכם להח�
 
 ## פרטי המוצר
 
-URL: https://-bfa00ca9.zappy5.app/product/:slug
+URL: https://example.com/product/:slug
 Description: פרטי המוצר - ליאור לב - הפקת אירועים
 
 פרטי המוצר - ליאור לב - הפקת אירועים
@@ -4169,7 +4169,7 @@ Description: פרטי המוצר - ליאור לב - הפקת אירועים
 
 ## מוצרים
 
-URL: https://-bfa00ca9.zappy5.app/category/:slug
+URL: https://example.com/category/:slug
 Description: מוצרים - ליאור לב - הפקת אירועים
 
 מוצרים - ליאור לב - הפקת אירועים
@@ -4427,7 +4427,7 @@ Description: מוצרים - ליאור לב - הפקת אירועים
 
 ## מדיניות פרטיות
 
-URL: https://-bfa00ca9.zappy5.app/privacy
+URL: https://example.com/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -4704,7 +4704,7 @@ Description: מדיניות הפרטיות שלנו - כיצד אנו אוספי
 
 ## הצהרת נגישות
 
-URL: https://-bfa00ca9.zappy5.app/accessibility
+URL: https://example.com/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -4990,7 +4990,7 @@ Description: הצהרת הנגישות שלנו - מחויבותנו לנגיש�
 
 ## תנאי שימוש
 
-URL: https://-bfa00ca9.zappy5.app/terms
+URL: https://example.com/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש
@@ -5295,7 +5295,7 @@ Description: תנאי השימוש באתר - הזכויות והחובות של
 
 ## תודה שפניתם | ליאור לב - הפקת אירועים
 
-URL: https://-bfa00ca9.zappy5.app/thank-you
+URL: https://example.com/thank-you
 Description: ליאור לב - הפקת אירועים - תודה שפניתם | ליאור לב - הפקת אירועים
 
 תודה שפניתם | ליאור לב - הפקת אירועים

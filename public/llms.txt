@@ -7,69 +7,69 @@
 ## Pages
 
 ### בית
-https://-bfa00ca9.zappy5.app
+https://example.com
 שירות צילום והדפסה מיידי על קוביות עץ ומגנטים מעוצבים לאירועים. הפכו כל רגע למזכרת מוחשית עם נגיעה כפרית ויוקרתית שתשאיר רושם בלתי נשכח אצל האורחים. הזמינו עכשיו חוויה שונה!
 
 ### שירותים
-https://-bfa00ca9.zappy5.app/services
+https://example.com/services
 גלו את חבילות הצילום וההדפסה שלנו: תאי צילום איכותיים, הדפסה על בלוקים מעץ טבעי ומגנטים אישיים לאירועים בישראל. שירות פרימיום שהופך כל אירוע לחוויה יצירתית ובלתי שגרתית. צפו באפשרויות!
 
 ### גלריה
-https://-bfa00ca9.zappy5.app/gallery
+https://example.com/gallery
 הציצו בגלריית אירועים אמיתיים: בלוקים מודפסים, מגנטים מרהיבים ורגעים שנתפסו בעדשה. השראה ויזואלית שמוכיחה איך מזכרת טבעית משדרגת כל חגיגה. בואו לראות את הקסם בפעולה ולקבל רעיונות לאירוע שלכם!
 
 ### צור קשר
-https://-bfa00ca9.zappy5.app/contact
+https://example.com/contact
 מוכנים להפוך את האירוע שלכם לבלתי נשכח? צרו קשר עוד היום להזמנת שירות הדפסה על עץ ומגנטים מותאמים אישית. הצוות שלנו יחזור אליכם עם הצעה מנצחת שתגנוב את ההצגה. דברו איתנו ונתחיל לתכנן!
 
 ### Products
-https://-bfa00ca9.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - ליאור לב - הפקת אירועים
 
 ### Cart
-https://-bfa00ca9.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://-bfa00ca9.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://-bfa00ca9.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://-bfa00ca9.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://-bfa00ca9.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://-bfa00ca9.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - ליאור לב - הפקת אירועים
 
 ### Category
-https://-bfa00ca9.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - ליאור לב - הפקת אירועים
 
 ### תודה שפניתם | ליאור לב - הפקת אירועים
-https://-bfa00ca9.zappy5.app/thank-you
+https://example.com/thank-you
 ליאור לב - הפקת אירועים - תודה שפניתם | ליאור לב - הפקת אירועים
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-bfa00ca9.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-bfa00ca9.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-bfa00ca9.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -102,8 +102,8 @@ Event Photography & Print Services
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-bfa00ca9.zappy5.app/sitemap.xml
-- Robots: https://-bfa00ca9.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-bfa00ca9.zappy5.app/llms-full.txt
-- Products (JSON): https://-bfa00ca9.zappy5.app/products.json
-- Products (Google Merchant RSS): https://-bfa00ca9.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
