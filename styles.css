@@ -2486,10 +2486,9 @@ main { flex: 1 0 auto; }
   opacity: 0.9;
 }
 
-/* Grid */
 .index-services-section__grid {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(2, 1fr);
   gap: var(--spacing-card-gap, 32px);
   direction: rtl;
 }
@@ -2616,9 +2615,9 @@ main { flex: 1 0 auto; }
   }
 
   .index-services-section__grid {
-    grid-template-columns: 1fr !important;
-    gap: 24px;
-  }
+  grid-template-columns: 1fr !important;
+  gap: 24px;
+}
 
   .index-services-section__card-body {
     padding: 24px;
